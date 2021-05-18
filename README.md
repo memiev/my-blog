@@ -3,8 +3,8 @@
 Using:
 - React - Router
 - Hooks
-- 
- PREVIEW: https://my-blog-react-app.vercel.app/
+- PREVIEW: https://my-blog-react-app.vercel.app/
+ 
  
 ![blog0](https://user-images.githubusercontent.com/60774707/118683909-70684f00-b80a-11eb-8779-681f2ab55309.jpg)
 
