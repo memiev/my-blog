@@ -1,41 +1,33 @@
-import React from "react";
+import React from 'react';
 
-export const AboutPage = () => {
-  return (
-    <React.Fragment>
-      <h1>About me</h1>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Lacus viverra vitae
-        congue eu consequat ac felis donec et. Viverra orci sagittis eu volutpat
-        odio facilisis mauris sit. Elit eget gravida cum sociis natoque
-        penatibus. Eget lorem dolor sed viverra ipsum nunc aliquet bibendum
-        enim. Ut consequat semper viverra nam libero justo laoreet sit amet.
-        Porttitor rhoncus dolor purus non enim. Non tellus orci ac auctor.
-        Venenatis urna cursus eget nunc scelerisque viverra mauris in. Cras sed
-        felis eget velit aliquet. Dolor sit amet consectetur adipiscing elit
-        pellentesque. Leo integer malesuada nunc vel risus commodo. Eget sit
-        amet tellus cras. Arcu non sodales neque sodales ut etiam sit amet nisl.
-        Turpis tincidunt id aliquet risus feugiat. Lorem ipsum dolor sit amet
-        consectetur adipiscing elit pellentesque. Pretium fusce id velit ut.
-        Ullamcorper morbi tincidunt ornare massa. Posuere morbi leo urna
-        molestie at elementum eu facilisis sed. Nunc sed velit dignissim sodales
-        ut eu sem integer.
-      </p>
-      <p>
-        Volutpat commodo sed egestas egestas fringilla phasellus faucibus
-        scelerisque eleifend. Dolor morbi non arcu risus quis varius quam.
-        Mauris rhoncus aenean vel elit. Nunc mi ipsum faucibus vitae. Porta non
-        pulvinar neque laoreet suspendisse interdum consectetur. Mi eget mauris
-        pharetra et ultrices neque ornare. Potenti nullam ac tortor vitae purus
-        faucibus ornare suspendisse sed. Ut venenatis tellus in metus vulputate
-        eu scelerisque felis. Diam vulputate ut pharetra sit amet aliquam id
-        diam. Ut lectus arcu bibendum at. Eget velit aliquet sagittis id
-        consectetur purus ut faucibus pulvinar. At urna condimentum mattis
-        pellentesque id. Ornare arcu odio ut sem nulla. Nunc aliquet bibendum
-        enim facilisis gravida neque. Porttitor massa id neque aliquam.
-      </p>
-     
-    </React.Fragment>
-  );
-};
+const AboutPage = () => (
+    <>
+    <h1>About me</h1>
+    <p>
+        Welcome to my blog! Proin congue
+        ligula id risus posuere, vel eleifend ex egestas. Sed in turpis leo. 
+        Aliquam malesuada in massa tincidunt egestas. Nam consectetur varius turpis, 
+        non porta arcu porttitor non. In tincidunt vulputate nulla quis egestas. Ut 
+        eleifend ut ipsum non fringilla. Praesent imperdiet nulla nec est luctus, at 
+        sodales purus euismod.
+    </p>
+    <p>
+        Donec vel mauris lectus. Etiam nec lectus urna. Sed sodales ultrices dapibus. 
+        Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
+        nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
+        sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
+        interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
+        consequat quam. Vivamus accumsan dui in facilisis aliquet.,
+    </p>
+    <p>
+        Etiam nec lectus urna. Sed sodales ultrices dapibus. 
+        Nam blandit tristique risus, eget accumsan nisl interdum eu. Aenean ac accumsan 
+        nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
+        sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
+        interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
+        consequat quam. Vivamus accumsan dui in facilisis aliquet.,
+    </p>
+    </>
+);
+
+export default AboutPage;
